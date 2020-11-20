@@ -1,2 +1,3 @@
 # FaceRecognition_Java_BaiduAI
 调用百度AI的人脸识别接口实现人脸搜索
+Java实现
